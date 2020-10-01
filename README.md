@@ -16,3 +16,5 @@ Restart nginx with `/etc/init.d/nginx restart` and restart django with `/etc/ini
 Check out [this] if you're having trouble with the path info env variable.
 
 [this]: http://neithere.net/dev/notes/nginx-fcgi-django/
+
+Thank you for visiting
